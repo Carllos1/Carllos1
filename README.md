@@ -1,3 +1,11 @@
+##  Oiii eu sou a Carlos Ramos, apaixonado por Desenvolvimento de Software's.!
+<div align="center">
+  <a href="https://github.com/Carllos1/Carllos1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos1&show_icons=true&theme=drak&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carllos1&layout=compact&langs_count=7&theme=drak"/>
+</div>
+
+<!---
 <h1 align="center">Oi👋, Eu sou Carlos Eduardo da Silva Ramos</h1>
 <h3 align="center">Apaixonado por Desenvolvimento de Software's.</h3>
 
@@ -21,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carllos1&show_icons=true&locale=en&layout=compact" alt="carllos1" /> </p>
 
-<!---
+
 - 👋 Hi, I’m @Carllos1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
