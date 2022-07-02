@@ -1,4 +1,13 @@
 ##  Oiii eu sou a Carlos Ramos, apaixonado por Desenvolvimento de Software's.!
+
+- 🔭 Atualmente estou trabalhando em manutenção de Software de Venda PDV
+
+- 🌱 Atualmente estou aprendendo Java e Python
+
+- 💬 Me pergunte sobre C, C++, SQL ,Excel e Java
+
+- 📫 Você me acha carllos.ramosdasilva@gmail.com 
+
 <div align="center">
   <a href="https://github.com/Carllos1/Carllos1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos1&show_icons=true&theme=drak&include_all_commits=true&count_private=true"/>
