@@ -10,9 +10,19 @@
 
 <div align="center">
   <a href="https://github.com/Carllos1/Carllos1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos1&show_icons=true&theme=drak&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carllos1&show_icons=true&theme=drak&include_all_commits=true&  count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carllos1&layout=compact&langs_count=7&theme=drak"/>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/C++-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg">
+  <img align="center" alt="jsdelivr" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+</div>
+
+  ##
 
 <!---
 <h1 align="center">Oi👋, Eu sou Carlos Eduardo da Silva Ramos</h1>
